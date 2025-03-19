@@ -38,7 +38,7 @@ Cara penggunaan ada di dalam README file masing masing
 ---
 
 ## 📬 **Kontak Saya**
-💼 **LinkedIn**: [Profil LinkedIn](linkedin.com/in/ghani-husna-0b0464261)
+💼 **LinkedIn**: **[Linkedin](www.linkedin.com/in/ghani-husna-0b0464261)**
 📧 **Email**: [Email](ghanihusna15@gmail.com)
 📂 **GitHub**: [GitHub](https://github.com/GhaniHD)
 
