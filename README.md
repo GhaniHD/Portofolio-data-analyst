@@ -30,7 +30,7 @@ Saya adalah mahasiswa Teknik Informatika yang memiliki minat dalam **Data Analys
 **Deskripsi:**
 - Menganalisis pola transaksi dan perilaku pelanggan pada dataset e-commerce.
 - Menggunakan Excel untuk pembersihan data dan Streamlit untuk membuat dashboard interaktif.
-- Menghasilkan insight terkait produk terlaris dan preferensi pelanggan.
+- Menghasilkan insight Keterlambatan pengiriman berdampak langsung pada kepuasan pelanggan dan rating restoran..
 
 🔗 **[Lihat Proyek](#)**
 
