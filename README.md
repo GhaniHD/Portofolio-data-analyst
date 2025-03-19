@@ -38,8 +38,8 @@ Cara penggunaan ada di dalam README file masing masing
 ---
 
 ## 📬 **Kontak Saya**
-💼 **LinkedIn**: **[Linkedin](www.linkedin.com/in/ghani-husna-0b0464261)**
-📧 **Email**: [Email](ghanihusna15@gmail.com)
-📂 **GitHub**: [GitHub](https://github.com/GhaniHD)
+💼 **LinkedIn**: linkedin.com/in/ghani-husna-0b0464261)
+📧 **Email**: ghanihusna15@gmail.com
+📂 **GitHub**: github.com/GhaniHD
 
 Terima kasih telah mengunjungi portofolio saya! 😊
