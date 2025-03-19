@@ -22,7 +22,7 @@ Saya adalah mahasiswa Teknik Informatika yang memiliki minat dalam **Data Analys
 - Menggunakan Pandas untuk pembersihan data dan Matplotlib untuk visualisasi.
 - Hasil analisis memberikan insight tentang faktor-faktor yang memengaruhi jumlah penyewaan.
 
-🔗 **[Lihat Proyek](#)**
+🔗 **[Lihat Proyek](https://bike-share-analytics.streamlit.app/)**
 
 ---
 
@@ -31,9 +31,6 @@ Saya adalah mahasiswa Teknik Informatika yang memiliki minat dalam **Data Analys
 - Menganalisis pola transaksi dan perilaku pelanggan pada dataset e-commerce.
 - Menggunakan Excel untuk pembersihan data dan Streamlit untuk membuat dashboard interaktif.
 - Menghasilkan insight Keterlambatan pengiriman berdampak langsung pada kepuasan pelanggan dan rating restoran..
-
-🔗 **[Lihat Proyek](#)**
-
 ---
 
 ## 🚀 **Bagaimana Cara Menggunakan?**
