@@ -34,24 +34,12 @@ Saya adalah mahasiswa Teknik Informatika yang memiliki minat dalam **Data Analys
 ---
 
 ## 🚀 **Bagaimana Cara Menggunakan?**
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/portfolio-data-analyst.git
-   ```
-2. Instal library yang diperlukan:
-   ```bash
-   pip install pandas matplotlib seaborn streamlit
-   ```
-3. Jalankan proyek di Streamlit (jika ada):
-   ```bash
-   streamlit run app.py
-   ```
-
+Cara penggunaan ada di dalam README file masing masing
 ---
 
 ## 📬 **Kontak Saya**
-💼 **LinkedIn**: [Profil LinkedIn Anda](#)
-📧 **Email**: [Email Anda](#)
-📂 **GitHub**: [GitHub Anda](#)
+💼 **LinkedIn**: [Profil LinkedIn Anda](www.linkedin.com/in/ghani-husna-0b0464261)
+📧 **Email**: [Email Anda](ghanihusna15@gmail.com)
+📂 **GitHub**: [GitHub Anda](https://github.com/GhaniHD)
 
 Terima kasih telah mengunjungi portofolio saya! 😊
