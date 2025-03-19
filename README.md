@@ -38,8 +38,9 @@ Cara penggunaan ada di dalam README file masing masing
 ---
 
 ## 📬 **Kontak Saya**
-💼 **LinkedIn**: linkedin.com/in/ghani-husna-0b0464261)
+💼 **LinkedIn**: linkedin.com/in/ghani-husna-0b0464261
+
 📧 **Email**: ghanihusna15@gmail.com
+
 📂 **GitHub**: github.com/GhaniHD
 
-Terima kasih telah mengunjungi portofolio saya! 😊
