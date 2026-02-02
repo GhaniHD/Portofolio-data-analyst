@@ -20,7 +20,7 @@ Analisis ini berfokus pada menjawab dua pertanyaan utama:
 
 ---
 
-## 🛠️ Tools yang Digunakan
+## Tools yang Digunakan
 
 Analisis dilakukan dengan menggunakan:
 
@@ -103,10 +103,10 @@ Bike-Sharing/
 
 Notebook ini memuat visualisasi seperti:
 
-✔ Perbandingan penyewaan sepeda per jam
-✔ Perbandingan penyewaan berdasarkan musim
-✔ Distribusi jumlah penyewaan harian vs per jam
-✔ Analisis durasi & kondisi cuaca terhadap jumlah penyewaan ([GitHub][1])
+ - Perbandingan penyewaan sepeda per jam
+ - Perbandingan penyewaan berdasarkan musim
+ - Distribusi jumlah penyewaan harian vs per jam
+ - nalisis durasi & kondisi cuaca terhadap jumlah penyewaan ([GitHub][1])
 
 ---
 
@@ -124,13 +124,13 @@ Analisis Bike Sharing Dataset menunjukkan bahwa:
 
 Untuk analisis lanjutan, kamu bisa:
 
-✔ Membuat **Model Prediksi Jumlah Penyewaan** berdasarkan cuaca dan waktu
-✔ Menambah **Segmentasi Pengguna** berdasarkan jenis pengguna
-✔ Membuat **Dashboard Interaktif** (misalnya dengan Streamlit atau Power BI) untuk visualisasi real-time
+- Membuat **Model Prediksi Jumlah Penyewaan** berdasarkan cuaca dan waktu
+- Menambah **Segmentasi Pengguna** berdasarkan jenis pengguna
+- Membuat **Dashboard Interaktif** (misalnya dengan Streamlit atau Power BI) untuk visualisasi real-time
 
 ---
 
 ## Penulis
 
 **Ghani Husna Darmawan**
-📧 [ghanihusna96@gmail.com](mailto:ghanihusna96@gmail.com)
+[ghanihusna96@gmail.com](mailto:ghanihusna96@gmail.com)
