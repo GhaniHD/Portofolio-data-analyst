@@ -1,6 +1,6 @@
 # Proyek Analisis Data E-Commerce
 
-##Deskripsi Proyek
+## Deskripsi Proyek
 
 Proyek ini merupakan **analisis data e-commerce** menggunakan dataset publik yang berisi informasi transaksi penjualan online. Analisis bertujuan untuk memahami **kinerja penjualan, perilaku pelanggan, dan hubungan antar entitas dataset** melalui eksplorasi data, visualisasi, dan penggabungan beberapa tabel sumber.
 
@@ -80,18 +80,18 @@ Hal utama yang dianalisis dalam notebook:
 
 ---
 
-## 📊 Insight & Temuan Utama
+## Insight & Temuan Utama
 
 Berikut adalah insight utama dari analisis (ringkasan karena notebook berisi beberapa grafik dan tabel):
 
-✔ **Struktur dataset sangat relasional** — setiap entitas terkait, memungkinkan analisis kompleks seperti:
+- **Struktur dataset sangat relasional** — setiap entitas terkait, memungkinkan analisis kompleks seperti:
 
 * pelanggan → pesanan → ulasan → produk. ([GitHub][1])
 
-✔ **Rating pelanggan dipengaruhi oleh faktor pengiriman**
+- **Rating pelanggan dipengaruhi oleh faktor pengiriman**
 Analisis awal menunjukkan bahwa keterlambatan pengiriman memilik efek terhadap rating yang diberikan oleh pelanggan.
 
-✔ **Beberapa hubungan penting di data:**
+- **Beberapa hubungan penting di data:**
 
 * Produk tertentu memiliki rating rata-rata lebih tinggi
 * Kategori pembayaran tertentu dapat berkorelasi dengan nilai ulasan
@@ -111,7 +111,7 @@ E-commerce/
 
 ---
 
-## 📈 Visualisasi Contoh
+##  Visualisasi Contoh
 
 Visualisasi yang dihasilkan dalam notebook mencakup:
 
